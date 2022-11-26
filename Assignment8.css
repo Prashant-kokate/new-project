@@ -1,0 +1,21 @@
+.Box1
+{
+    height: 403px;
+    width: 379px;
+    padding: 30px;
+    margin: auto;
+    border-style: dotted;
+    background-image: linear-gradient( 
+97.3deg
+, rgba(25,50,70,0.81) 10.7%, rgba(155,65,25,0.72) 39.5%, rgba(255,192,0,0.81) 69.7% );
+}
+.Box2
+{
+    border-radius: 27px;
+    color: blue;
+    padding: 30px;
+    height: 335px;
+    width: 307px;
+    border-style: dotted;
+    background-image: linear-gradient( 99deg,  rgba(255,166,0,1) 14.7%, rgba(255,99,97,1) 73% );   
+}
